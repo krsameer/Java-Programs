@@ -9,6 +9,6 @@ public class PalindromeChecker{
                 break;
             }
         }
-        System.out.println(str+ "is palindrome: " + isPalindrome);
+        System.out.println(str+ " is palindrome: " + isPalindrome);
     }
 }
